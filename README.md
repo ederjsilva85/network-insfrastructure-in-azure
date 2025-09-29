@@ -2,7 +2,7 @@
 This repository contains a Bash script using **Azure CLI** to deploy a basic **Hub-Spoke network topology** in Microsoft Azure.
 
 
-<img width="150" height="150" alt="Microsoft_Azure svg" src="https://github.com/user-attachments/assets/7658e4a4-08d2-4f05-9605-a1af434b5b6a" />
+<img width="60" height="60" alt="Microsoft_Azure svg" src="https://github.com/user-attachments/assets/807bf288-3268-4f0f-b300-12865e702d6f" />
 
 
 # Azure Hub-Spoke Network Bootstrap
